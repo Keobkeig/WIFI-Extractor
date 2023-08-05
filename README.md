@@ -30,7 +30,7 @@ The script uses Python 3 and the following libraries:
 - re
 - smtplib 
 - email
-- dotenv
+- dotenv (install use ```pip install python-dotenv```)
 
 ## Notes
 
